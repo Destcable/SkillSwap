@@ -3,7 +3,7 @@ function LoginView() {
         <div className="flex justify-center items-center h-screen bg-blue-500">
             <div className="border-solid border-2 p-8 bg-white rounded-lg shadow-lg">
                 <div className="text-center mb-6">
-                    <p className="text-lg font-medium">Welcome back</p>
+                    <p className="text-2xl font-medium">Welcome back 👋</p>
                     <p className="text-slate-400">Sign-in to your account and start the adventure</p>
                 </div>
                 <form>
